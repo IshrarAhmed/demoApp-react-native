@@ -1,0 +1,32 @@
+  [
+    {
+        "id": 1,
+        "Worker_Role": "Astrologer",
+        "icon":"../assents/images/astrologer.jpg"
+    },
+    {
+        "id": 2,
+        "Worker_Role": "Assistant",
+        "icon":"../assents/images/assistant.jpg"
+
+    },
+    {
+        "id": 3,
+        "Worker_Role": "Makeup",
+        "icon":"../assents/images/makeup.jpg"
+
+    },
+    {
+        "id": 4,
+        "Worker_Role": "Mehndi",
+        "icon":"../assents/images/mehdi.jpeg"
+
+    },
+    {
+        "id": 5,
+        "Worker_Role": "Photographer",
+        "icon":"../assents/images/photographer.webp"
+
+    }
+]
+

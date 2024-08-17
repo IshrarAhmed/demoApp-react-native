@@ -1,0 +1,53 @@
+[
+  {
+      "id": 1,
+      "name": "John Doe",
+      "country": "United States",
+      "profileImage": "https://example.com/images/johndoe.jpg",
+      "email": "johndoe@example.com",
+      "jobTitle": "Software Engineer",
+      "experience": 5,
+      "skills": ["JavaScript", "React", "Node.js"],
+      "languages": ["English"],
+      "availability": "Full-time"
+  },
+  {
+      "id": 2,
+      "name": "Jane Smith",
+      "country": "Canada",
+      "profileImage": "https://example.com/images/janesmith.jpg",
+      "email": "janesmith@example.com",
+      "jobTitle": "Graphic Designer",
+      "experience": 7,
+      "skills": ["Photoshop", "Illustrator", "UI/UX"],
+      "languages": ["English", "French"],
+      "availability": "Part-time"
+  },
+  {
+      "id": 3,
+      "name": "Carlos Rodriguez",
+      "country": "Mexico",
+      "profileImage": "https://example.com/images/carlosrodriguez.jpg",
+      "email": "carlosrodriguez@example.com",
+      "jobTitle": "Data Analyst",
+      "experience": 3,
+      "skills": ["SQL", "Python", "Tableau"],
+      "languages": ["Spanish", "English"],
+      "availability": "Contract"
+  },
+
+  {
+      "id": 100,
+      "name": "Amit Patel",
+      "country": "India",
+      "profileImage": "https://example.com/images/amitpatel.jpg",
+      "email": "amitpatel@example.com",
+      "jobTitle": "DevOps Engineer",
+      "experience": 4,
+      "skills": ["AWS", "Docker", "Kubernetes"],
+      "languages": ["Hindi", "English"],
+      "availability": "Full-time"
+  }
+]
+
+  
